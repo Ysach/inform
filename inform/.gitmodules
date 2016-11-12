@@ -1,0 +1,3 @@
+[submodule "inform"]
+	path = inform
+	url = https://github.com/Ysach/inform

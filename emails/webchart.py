@@ -9,8 +9,8 @@ class Webchart(object):
     def webchart(self, wx_content):
 
         # 设置corpid和corpsecret值
-        corpid = 'wx69584434aea8351a'
-        corpsecret = 'qJ_97E8ZWb8Iymv0iv8-Dcnat38Mf0iN5or3-Pmn-3cXydSD7aVUVbZClEEOp2L9'
+        corpid = ''
+        corpsecret = ''
 
         # 微信send  get  msg url连接地址
         urlsend = "https://qyapi.weixin.qq.com/cgi-bin/message/send"
